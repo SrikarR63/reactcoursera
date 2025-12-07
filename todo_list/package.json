@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "lab7_ecommerce",
-=======
-  "name": "lab2_dislike",
->>>>>>> 18b51d14d10adbc43ae713617febed41cef34f36
+  "name": "lab4_todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,21 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-<<<<<<< HEAD
     "preview": "vite build && vite preview --host"
-  },
-  "dependencies": {
-    "@reduxjs/toolkit": "^2.2.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^9.1.0"
-=======
-    "preview": "vite build; vite preview --host"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
->>>>>>> 18b51d14d10adbc43ae713617febed41cef34f36
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
